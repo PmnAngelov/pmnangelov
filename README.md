@@ -2,7 +2,7 @@
 
 
 
+![big-data-data-analysis-computer-icons-data-science-png-favpng-9RTdDN0DgbQBHkX1vHGBSHwnj](https://user-images.githubusercontent.com/113591133/192651547-d0f399e5-9418-4fab-9ca7-377a3f173d3a.jpg)
 
-![png-transparent-data-science-information-science-blue-angle-laboratory](https://user-images.githubusercontent.com/113591133/192651517-03acc6db-544a-40a1-af08-ff9561cf85b7.png)
 
 
