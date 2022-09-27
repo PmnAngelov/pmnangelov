@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Plamen Angelov</h1>
 
 
+<h1 align="center">![png-transparent-data-science-data-mining-predictive-analytics-scientist-infographic-people-symmetry](https://user-images.githubusercontent.com/113591133/192651316-0d35f8cb-70cd-4d63-8160-b6479fca8e46.png)</h1>
 
 
 
-![png-transparent-web-development-web-analytics-search-engine-optimization-google-analytics-web-design-web-design-angle-search-engine-optimization-web-design](https://user-images.githubusercontent.com/113591133/192650905-c676d0d8-5b67-4714-83df-e10454a9d9bc.png)
+
