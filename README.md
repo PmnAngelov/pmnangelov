@@ -2,5 +2,7 @@
 
 
 
-![png-transparent-teal-and-white-graphic-art-data-analysis-data-visualization-big-data-data-management-free-of-network-tools-icon-miscellaneous-blue-computer-science](https://user-images.githubusercontent.com/113591133/192652034-688fca5b-f7a1-43e5-b390-ad7f3c5cb9b7.png)
+
+![23-239701_introduction-to-data-science-data-science-introduction](https://user-images.githubusercontent.com/113591133/192652071-c237bd21-4f62-4a87-8ff1-123d5e23446a.png)
+
 
