@@ -3,6 +3,5 @@
 
 
 
-![23-239701_introduction-to-data-science-data-science-introduction](https://user-images.githubusercontent.com/113591133/192652071-c237bd21-4f62-4a87-8ff1-123d5e23446a.png)
-
+![images](https://user-images.githubusercontent.com/113591133/192652288-98c8e6e2-12b3-41a9-9745-ac09608664d9.png)
 
