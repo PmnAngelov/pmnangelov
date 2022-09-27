@@ -2,7 +2,7 @@
 
 
 
-![png-transparent-data-science-data-mining-predictive-analytics-scientist-infographic-people-symmetry](https://user-images.githubusercontent.com/113591133/192651419-3e3c93ea-8467-4e0a-9278-a8e6f05636d7.png)
 
+![png-transparent-data-science-information-science-blue-angle-laboratory](https://user-images.githubusercontent.com/113591133/192651517-03acc6db-544a-40a1-af08-ff9561cf85b7.png)
 
 
