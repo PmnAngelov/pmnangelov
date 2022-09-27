@@ -2,4 +2,5 @@
 
 
 
-![png-transparent-data-analysis-analytics-management-big-data-data-processing-business-template-text-people](https://user-images.githubusercontent.com/113591133/192650631-7568959b-94e8-414c-8f5f-d36d17496762.png)
+
+![png-transparent-data-analysis-data-quality-analytics-pattaya-data-pattaya-analysis-thumbnail](https://user-images.githubusercontent.com/113591133/192650676-4c3873c4-d0d2-4ae2-9dc8-ee962f603e08.png)
