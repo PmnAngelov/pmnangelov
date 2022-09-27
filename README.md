@@ -3,5 +3,5 @@
 
 
 
-![png-transparent-web-analytics-google-analytics-google-tag-manager-data-analytics-service-material-business](https://user-images.githubusercontent.com/113591133/192650801-ccee5a1c-811e-461c-9145-d172308bfff8.png)
 
+![png-transparent-web-development-web-analytics-search-engine-optimization-google-analytics-web-design-web-design-angle-search-engine-optimization-web-design](https://user-images.githubusercontent.com/113591133/192650905-c676d0d8-5b67-4714-83df-e10454a9d9bc.png)
