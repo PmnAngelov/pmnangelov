@@ -2,5 +2,5 @@
 
 
 <p align="center">
-<img align="center" src="https://github.com/PmnAngelov/pmnangelov/blob/main/img/datatypologies.png" />
+<img align="center" src="https://github.com/PmnAngelov/pmnangelov/blob/main/img/ai-background.png" />
 </p>
