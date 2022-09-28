@@ -2,5 +2,5 @@
 
 
 <p align="center">
-<img align="center" src="https://github.com/PmnAngelov/pmnangelov/blob/main/img/datatypologies.png" width="800" height="400" />
+<img align="center" src="https://github.com/PmnAngelov/pmnangelov/blob/main/img/datatypologies.png" width="600" height="300" />
 </p>
