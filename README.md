@@ -2,5 +2,5 @@
 
 
 <p align="center">
-<img align="center" src="https://github.com/PmnAngelov/pmnangelov/blob/main/img/26533-data-management.png" />
+<img align="center" src="https://github.com/PmnAngelov/pmnangelov/blob/main/img/datatypologies.png" />
 </p>
