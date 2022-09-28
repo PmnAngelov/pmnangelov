@@ -2,5 +2,5 @@
 
 
 <p align="center">
-<img align="center" src="https://github.com/PmnAngelov/pmnangelov/blob/main/img/datatypologies.png" width="600" height="300" />
+<img align="center" src="https://github.com/PmnAngelov/pmnangelov/blob/main/img/Data-Analytics-What-is-Data-Analytics-Edureka.png" width="600" height="300" />
 </p>
