@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Plamen Angelov</h1>
 
-<h2 align="center">Entry level Data Scientist</h2>
+<h2 align="center">Entry level, solution oriented Data Scientist</h2>
 
 
 <p align="center">
