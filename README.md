@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+<h3 align="center">Tools and technologies:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,grafana,mongodb,postgres,redis,py,tensorflow,vscode" />
   </a>
