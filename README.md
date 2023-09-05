@@ -4,17 +4,3 @@
 <img align="center" src="https://github.com/PmnAngelov/pmnangelov/blob/main/img/analytics.png" />
 </p>
 
-<p align="center">
-  <h3 align="left">Tools and technologies:</h3>
-  <h4 align="left">Coding:</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,py,tensorflow,git,github,gitlab" />
- <h4 align="left">Databses:</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres" />
-    <h4 align="left">Visualizations:</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=grafana" />
-    <img src="https://github.com/PmnAngelov/pmnangelov/blob/main/img/Power-BI-Logo-PNG_005.png" />
-</p>
-
