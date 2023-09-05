@@ -4,4 +4,11 @@
 <img align="center" src="https://github.com/PmnAngelov/pmnangelov/blob/main/img/analytics.png" />
 </p>
 
- [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,grafana,mongodb,postgres,redis,py,tensorflow,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=git,github,gitlab,grafana,mongodb,postgres,redis,py,tensorflow,vscode)" />
+  </a>
+</p>
+
+
+
