@@ -6,6 +6,10 @@
 
 <p align="center">
   <h3 align="left">Tools and technologies:</h3>
+  <h4 align="left">Coding:</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,py,tensorflow,vscode" />
+  </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,grafana,mongodb,postgres,redis,py,tensorflow,vscode" />
   </a>
