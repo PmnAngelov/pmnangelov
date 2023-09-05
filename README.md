@@ -12,8 +12,8 @@
  <h4 align="left">Databses:</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres" />
+    <h4 align="left">Visualizations:</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=grafana" />
 </p>
 
-
-
-git,github,gitlab,grafana,mongodb,postgres,redis,py,tensorflow,vscode" />
