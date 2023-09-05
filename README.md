@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,grafana,mongodb,postgres,redis,py,tensorflow,vscode)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,grafana,mongodb,postgres,redis,py,tensorflow,vscode" />
+  </a>
 </p>
 
 
