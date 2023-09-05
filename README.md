@@ -15,5 +15,6 @@
     <h4 align="left">Visualizations:</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=grafana" />
+    <img src="https://github.com/PmnAngelov/pmnangelov/blob/main/img/Power-BI-Logo-PNG_005.png" />
 </p>
 
