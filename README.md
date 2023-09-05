@@ -9,10 +9,7 @@
   <h4 align="left">Coding:</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,py,tensorflow,vscode" />
-</p>
-
-<p align="center">
-  <h4 align="left">Databses:</h4>
+ <h4 align="left">Databses:</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres" />
 </p>
